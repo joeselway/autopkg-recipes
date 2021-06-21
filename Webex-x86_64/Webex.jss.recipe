@@ -13,9 +13,9 @@
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string>%NAME%-update-smart</string>
+		<string>%NAME%-update-smart=x86_64</string>
 		<key>GROUP_TEMPLATE</key>
-		<string>CFBundleVersionSmartGroupTemplate.xml</string>
+		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
 		<string>Webex</string>
 		<key>POLICY_CATEGORY</key>
@@ -38,13 +38,6 @@
 			<dict>
 				<key>category</key>
 				<string>%CATEGORY%</string>
-				<key>extension_attributes</key>
-				<array>
-					<dict>
-						<key>ext_attribute_path</key>
-						<string>CFBundleVersionExtensionAttribute.xml</string>
-					</dict>
-				</array>
 				<key>groups</key>
 				<array>
 					<dict>
