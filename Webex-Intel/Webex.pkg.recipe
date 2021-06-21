@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Webex and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.github.joeselway.pkg.Webex-x86_64</string>
+	<string>com.github.joeselway.pkg.Webex-Intel</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,14 +16,14 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.joeselway.download.Webex-x86_64</string>
+	<string>com.github.joeselway.download.Webex-Intel</string>
 	<key>Process</key>
 	<array>
 		<dict>
 			<key>Arguments</key>
 			<dict>
 				<key>pkg_path</key>
-				<string>%RECIPE_CACHE_DIR%/%NAME%-x86_64-%version%.pkg</string>
+				<string>%RECIPE_CACHE_DIR%/%NAME%-Intel-%version%.pkg</string>
 			</dict>
 			<key>Processor</key>
 			<string>AppPkgCreator</string>

@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Webex.</string>
 	<key>Identifier</key>
-	<string>com.github.joeselway.download.Webex-x86_64</string>
+	<string>com.github.joeselway.download.Webex-Intel</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
