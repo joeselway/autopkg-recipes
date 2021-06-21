@@ -21,6 +21,7 @@
 	<string>1.0.0</string>
 	<key>Process</key>
 	<array>
+		<dict>
 			<key>Arguments</key>
 			<dict>
 					<key>url</key>
