@@ -25,7 +25,7 @@
 		<key>POLICY_TEMPLATE</key>
 		<string>PolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>Clip Studio Paint, previously Manga Studio or ComicStudio in Japan, is a family of software applications for Mac OS X and Microsoft Windows used for the digital creation of comics and manga.</string>
+		<string>Presenting Comic Life 3, the app with everything you need to make a stunning comic from your own images. Packed with fonts, templates, panels, balloons, captions, and lettering art, Comic Life is a fun, powerful and easy-to-use app with endless possibilities.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
 	</dict>
